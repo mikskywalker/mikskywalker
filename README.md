@@ -1,8 +1,8 @@
 # Hello, my name is Miks
 
-Hi there! I'm a front-end web developer from Makati, Philippines who creates cool web apps for different clients around the world. Some of the big names I've worked with are The Coca-Cola Company, Ministry of Health NZ, WayFind, UR Store, Entrego PH, and more.
+I'm a front-end web developer from Makati, Philippines who creates cool web apps for different clients around the world. Some of the big names I've worked with are The Coca-Cola Company, Ministry of Health NZ, WayFind, UR Store, Entrego PH, and more.
 
-👨‍💻 My current skills and tools include: 
+👨‍💻 My current skills and tools include but are not limited to: 
 - React - Typescript 
 - Material UI / Chakra UI / Bootstrap / Bulma
 - Redux
@@ -14,5 +14,3 @@ Hi there! I'm a front-end web developer from Makati, Philippines who creates coo
 - Sourcetree
 - Slack / Webex
 - Azure DevOps / Jira
-
-
