@@ -4,14 +4,13 @@ I'm a front-end web developer from Makati, Philippines who creates cool web apps
 
 👨‍💻 My current skills and tools include but are not limited to: 
 - React + Typescript
-- - Vue 3 / Laravel / Php
+- Vue 3 / Laravel / Php
 - Material UI / Chakra UI / Bootstrap / Bulma / TailwindCSS / Shadcn
-- Redux
-- JavaScript
-- HTML & CSS
+- Redux / Pinia
+- JavaScript / HTML & CSS
 - Spline 3D
 - Webflow
 - Git ( Github / Gitlab / Bitbucket )
 - Sourcetree
-- Slack / Webex
+- Slack / Webex / Discord
 - Azure DevOps / Jira / Trello
